@@ -1,0 +1,28 @@
+body {
+background-color:burlywood;}
+
+.class{
+    text-align: center;
+    font-family: 'impact';
+    font-size: 40pt;
+
+}
+
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.a{
+    font-size:20pt;
+    font-family: 'lucida sans';
+}
+
+#b{
+    font-size:30pt;
+    font-family: 'lucida sans'; 
+
+}
+

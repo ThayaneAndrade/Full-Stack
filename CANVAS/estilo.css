@@ -1,0 +1,9 @@
+#canvas{
+background-color: white;
+}
+
+body{
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+}

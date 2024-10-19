@@ -1,0 +1,31 @@
+body{
+    background-color: lightgoldenrodyellow;
+
+}
+table, th, td{
+    outline:solid;
+    outline-color: palevioletred;
+    border:1px;
+    table-layout:fixed;
+    
+}
+
+p{
+    font-family: IMPACT;
+    font-size: 50px;
+    color: palevioletred;
+    text-align: center;
+
+
+}
+
+.tabela {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana;
+    font-size: 30px;
+    text-align: center;
+    
+
+}
